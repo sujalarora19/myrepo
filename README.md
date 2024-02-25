@@ -1,2 +1,2 @@
-# ptanahi
+
 # welcome to github
